@@ -1,0 +1,17 @@
+.profile {
+  padding: 25px;
+  background-color: aqua;
+}
+.stats {
+  padding: 0;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-content: center;
+  list-style-type: none;
+}
+.stats>li {
+  gap: 20px;
+  border: 1px solid black;
+}
