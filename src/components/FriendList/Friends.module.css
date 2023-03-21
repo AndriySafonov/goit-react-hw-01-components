@@ -12,13 +12,13 @@
   margin: 0 5px 0 5px;
   background-color: red;
 }
-.friend-list{
+.friendList{
   margin: 0;
   padding: 25px;
   background-color: rgba(172, 255, 47, 0.342);
 }
 
-.friend-list > .item {
+.friendList > .item {
   display: flex;
   align-items: center;
   margin-top: 10px;

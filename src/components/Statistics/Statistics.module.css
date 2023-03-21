@@ -4,7 +4,7 @@
   flex-direction: column;
   background-color: bisque;
 }
-.stat-list {
+.stat {
   margin: 0;
   padding: 0;
   list-style-type: none;
